@@ -13,7 +13,7 @@ Note this is not browser or user color scheme. This is **system** color scheme f
 
 
 ```bash
-npm install merlin-chatou@system-color-scheme
+npm i @merlin-chatou/system-color-scheme
 ```
 
 
