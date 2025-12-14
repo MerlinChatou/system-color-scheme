@@ -1,0 +1,30 @@
+{
+  "name": "@merlin-chatou/system-color-scheme",
+  "version": "1.0.0",
+  "description": "System color scheme manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MerlinChatou/system-color-scheme.git"
+  },
+  "keywords": [
+    "color",
+    "scheme",
+    "system",
+    "dark",
+    "light",
+    "theme"
+  ],
+  "author": "Merlin Chatou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MerlinChatou/system-color-scheme/issues"
+  },
+  "homepage": "https://github.com/MerlinChatou/system-color-scheme#readme",
+  "volta": {
+    "node": "24.12.0"
+  }
+}
